@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+.formData {
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 10px;
+background-color: darkcyan;
+}
+form {
+font-size: 30px;
+}
+form input {
+margin-left: 10px;
+font-size: 15px;
+}
+</style>
+</head>
+<body>
+<div class = "formData" >
+<form action = "personal information" >
+Name: <input type = "text" name = "name" required>
+password:<input type="text"namer"password" >
+<input type = "submit" >
+</form>
+</div>
+</body>
+</html>
